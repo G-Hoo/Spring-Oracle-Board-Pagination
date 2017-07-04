@@ -160,7 +160,6 @@ jyp.controller = (function() {
 		    });
 	    });
 	};
-    
     return {
         onCreate: onCreate
     }
